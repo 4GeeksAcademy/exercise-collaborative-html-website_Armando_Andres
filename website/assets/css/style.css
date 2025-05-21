@@ -1,3 +1,18 @@
-body{
+/* body{
     background: #BDBDBD;
+} */
+
+.margin {
+    margin-left: 9rem;
+    margin-right: 9rem;
+}
+
+form {
+    background-color: rgb(230, 230, 230);
+}
+
+.title {
+    position: absolute;
+    top: 18rem;
+    left: 38rem;
 }
